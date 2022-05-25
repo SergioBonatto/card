@@ -46,14 +46,14 @@
   },
   "myCard": {
     "info": {
-      "name": "bonatto",
+      "name": "Sergio Bonatto",
       "handle": "sergiobonatto",
       "twitter": "sergiofbonatto",
       "npm": "sergiobonatto",
       "github": "sergiobonatto",
       "linkedin": "sergiobonatto",
       "web": "https://sergiobonatto.vercel.app/",
-      "work": "dev"
+      "work": "dev poλenteiro"
     },
     "data": [
       "          <white>{{name}}</><green> / </><cyan>{{handle}}</>",
