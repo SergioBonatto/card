@@ -48,12 +48,12 @@
     "info": {
       "name": "Sergio Bonatto",
       "handle": "sergiobonatto",
-      "twitter": "sergiofbonatto",
+      "twitter": "fiBonatto",
       "npm": "sergiobonatto",
       "github": "sergiobonatto",
       "linkedin": "sergiobonatto",
-      "web": "https://sergiobonatto.vercel.app/",
-      "work": "dev poλenteiro"
+      "web": "https://sergiobonatto.github.io/",
+      "work": "fiBonatto tech"
     },
     "data": [
       "          <white>{{name}}</><green> / </><cyan>{{handle}}</>",
