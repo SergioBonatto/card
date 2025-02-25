@@ -1,0 +1,56 @@
+body {
+    background-color: #fafafa;
+    color: #383a42;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+  .card {
+    border-radius: 15px;
+    border: 2px solid #73ad21;
+    padding: 20px;
+    margin: 25px;
+    background: #ffffff;
+    width: fit-content;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  pre {
+    color: #383a42;
+  }
+
+  .name {
+    color: #e45649;
+    font-weight: bold;
+    font-size: 1.5em;
+  }
+
+  .handle {
+    color: #0184bc;
+    font-size: 1.2em;
+  }
+
+  .label {
+    font-weight: bold;
+    color: #383a42;
+  }
+
+  .text {
+    color: #383a42;
+  }
+
+  .work-label {
+    color: #4078f2;
+  }
+
+  .work-text {
+    color: #383a42;
+  }
+
+  .link {
+    color: #4078f2;
+    text-decoration: none;
+  }
+
+  .link:hover {
+    text-decoration: underline;
+  }
